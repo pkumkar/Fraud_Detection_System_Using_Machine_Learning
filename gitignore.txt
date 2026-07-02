@@ -1,0 +1,12 @@
+# Ignore the generated dataset
+aml_transactions_full_100k.csv
+
+# Ignore trained models
+.pkl
+.joblib
+
+# Ignore Streamlit app file (if you only want the notebook)
+# app.py
+
+# Ignore editor files
+.ipynb_checkpoints
